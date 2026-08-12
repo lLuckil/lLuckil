@@ -1,5 +1,5 @@
 - 👋 Hi, I’m William
-- 🌱 I’m currently studying Computer Science in USYD
+- 🌱 I’m currently studying MDSI in UTS
 - 📫 Here is my email william11327@gmail.com
 
 <!---

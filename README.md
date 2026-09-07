@@ -14,9 +14,11 @@ I'm currently interested in graduate and junior opportunities across **Data Anal
 
 ## Featured project
 
-### [NSW Road Crash Risk Intelligence Dashboard](https://github.com/lLuckil/36104_DVN_AT3_G22)
+### [NSW Road Crash Risk Analysis — Individual Dashboard Branch](https://github.com/lLuckil/36104_DVN_AT3_G22/tree/william-dashboard)
 
-An interactive Streamlit dashboard built from NSW Government crash data to support road-safety investigation and policy prioritisation.
+This work was completed within a group assignment repository. The repository's default branch contains the team's final dashboard; the linked `william-dashboard` branch contains my individual dashboard implementation.
+
+My version is an interactive Streamlit dashboard built from NSW Government crash data to support road-safety investigation and policy prioritisation.
 
 My individual work included:
 
@@ -26,7 +28,7 @@ My individual work included:
 - comparing raw crash counts with population-adjusted risk
 - profiling missing data instead of silently discarding sparse fields
 
-[View my individual dashboard branch](https://github.com/lLuckil/36104_DVN_AT3_G22/tree/william-dashboard)
+[View the code and README for my individual branch](https://github.com/lLuckil/36104_DVN_AT3_G22/tree/william-dashboard)
 
 ## Coursework visibility
 
